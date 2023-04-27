@@ -84,6 +84,20 @@ select,input{
     cursor: pointer;
 
   }
+.attribution {
+    font-size: 12px;
+    text-align: center; 
+    position: absolute;
+    bottom: 0;
+    margin: 20px;
+   
+   }
+   a{
+    text-decoration: none;
+    font-size: 13.5px;
+    font-family: serif;
+
+   }
   @media only screen and (max-width:376px) {
     
     .container{
